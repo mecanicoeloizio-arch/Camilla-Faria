@@ -1,0 +1,6 @@
+{
+  "name": "Camilla - Atendimento Grupo Eloizio",
+  "description": "IA de Atendimento e Assistente Executiva do Grupo Eloizio (Elo Contábil Digital, Cursos Livres e Máquinas de Costura).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
